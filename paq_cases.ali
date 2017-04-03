@@ -1,0 +1,78 @@
+V "GNAT Lib v4.6"
+A -g
+P SS ZX
+R nnnnnnnnnnnnnnnnnnnnnnnnnvnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+
+U paq_cases%b		paq_cases.adb		c1a0b15c NE OO PK IL
+W ada%s			ada.ads			ada.ali
+W ada.integer_text_io%s	a-inteio.ads		a-inteio.ali
+W ada.long_float_text_io%s  a-lfteio.ads	a-lfteio.ali
+W ada.text_io%s		a-textio.adb		a-textio.ali
+
+U paq_cases%s		paq_cases.ads		1af4c53d EE NE OO PK IL
+W ada%s			ada.ads			ada.ali
+W ada.integer_text_io%s	a-inteio.ads		a-inteio.ali
+W ada.long_float_text_io%s  a-lfteio.ads	a-lfteio.ali
+W ada.text_io%s		a-textio.adb		a-textio.ali
+
+D ada.ads		20070406091342 3ffc8e18
+D a-except.ads		20090727140100 0c711ac9
+D a-finali.ads		20090409150019 e5e85fa4
+D a-filico.ads		20090409150019 872dc219
+D a-inteio.ads		20070406091342 f64b89a4
+D a-ioexce.ads		20091130110856 8b9de6cd
+D a-lfteio.ads		20070406091342 4969a46f
+D a-stream.ads		20090409150019 2ca4ee37
+D a-tags.ads		20101021101406 c7695348
+D a-textio.ads		20091028140912 386df5d4
+D a-tiflio.ads		20090409150019 56fbda09
+D a-tiinio.ads		20090409150019 aa04e5d6
+D a-unccon.ads		20070406091342 f9eb8f06
+D interfac.ads		20090409150019 f77d8799
+D i-cstrea.ads		20100622165701 1bd72c32
+D paq_cases.ads		20160329085741 9dbb1d22
+D paq_cases.adb		20160329085735 db547461
+D system.ads		20121016191316 23e1f70b
+D s-crtl.ads		20100617122610 ac77b159
+D s-exctab.ads		20090417131547 66e51330
+D s-ficobl.ads		20100909103250 443b9d66
+D s-finimp.ads		20090409150019 46853fe8
+D s-finroo.ads		20090409150019 dbb860c9
+D s-parame.ads		20091130110856 9c5d83fa
+D s-secsta.ads		20090707124243 eea35a36
+D s-soflin.ads		20090729085153 9414c974
+D s-stache.ads		20090417130712 596fc1b4
+D s-stalib.ads		20101021102512 c4241c00
+D s-stoele.ads		20090417130712 facd7d98
+D s-stoele.adb		20100617152355 afc5dc80
+D s-stratt.ads		20100909123135 aedef97e
+D s-traent.ads		20090417130712 5221ee41
+D s-unstyp.ads		20090409150019 6ae15c76
+D s-wchcon.ads		20090417130712 bfeb2e3d
+X 1 ada.ads
+16K9*Ada 19e8 16|1r6 2r5 3r6 4r5 5r6 5r30 17|1r6 2r5 3r6 4r5 5r6 5r30
+X 5 a-inteio.ads
+18K13*Integer_Text_IO[12|45] 16|5w10 5r34 17|5w10 5r34
+X 7 a-lfteio.ads
+18K13*Long_Float_Text_IO[11|45] 16|1w10 2r9 17|1w10 2r9
+X 10 a-textio.ads
+49K13*Text_IO 472e16 16|3w10 4r9 17|3w10 4r9
+243U14*Put 17|14s25 14s52 15s38 16s38 17s38
+X 12 a-tiinio.ads
+65U14*Put 17|14s39[5|18] 15s25[5|18] 16s25[5|18] 17s25[5|18]
+X 16 paq_cases.ads
+7K9*paq_cases 27l5 27e14 17|7b14 40l5 40t14
+10R14*cases 17e19 20r35 21r36 25r36 17|11r35 22r36 29r36 30r21
+11i17*H{integer} 17|13r23 14r45 32m27
+12i17*G{integer} 17|15r31 33m27
+13i17*B{integer} 17|16r31 34m27
+14i17*D{integer} 17|17r31 35m27
+20U19*affiche 20>28 17|11b19 19l13 19t20
+20r28 c{10R14} 17|11b28 13r21 14r43 15r29 16r29 17r29
+21U19*affichep 21>29 21>43 17|22b19 25l13 25t21
+21r29 c{10R14} 17|22b29
+21b43 b{boolean} 17|22b43
+25V18*cases_vide{10R14} 17|29b18 38l13 38t23
+X 17 paq_cases.adb
+30r17 c{16|10R14} 32m25 33m25 34m25 35m25 36r24
+
